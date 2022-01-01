@@ -1,0 +1,4 @@
+- just some small research how this would works
+==================================
+- basic templates by bootstrap
+- make demo json data
